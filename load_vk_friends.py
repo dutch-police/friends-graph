@@ -5,7 +5,7 @@
 import vk_api
 import networkx as nx
 
-MAX_DEEP = 3  # Max graph deep
+MAX_DEEP = 5  # Max graph deep
 MAX_FRIENDS = 30 # Max number of friends vk method can process
 VK_LOGIN = 'kirainluck@gmail.com'
 VK_TOKEN = 'ce373d45c3f69d93022b12d3e9af02916e22becd049aaeeb40de1c19e7a65a3e0e58945b1d547beab9e0b'
